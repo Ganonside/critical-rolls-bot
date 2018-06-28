@@ -1,0 +1,25 @@
+{
+  "name": "critical-rolls-bot",
+  "version": "0.0.1",
+  "description": "Discord bot for D&D 3.5e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ganonside/critical-rolls-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "d&d",
+    "3.5e"
+  ],
+  "author": "Jon Horner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ganonside/critical-rolls-bot/issues"
+  },
+  "homepage": "https://github.com/Ganonside/critical-rolls-bot#readme"
+}
